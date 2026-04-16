@@ -109,7 +109,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start" : "npx nodemon App.js"
+    "start" : "node App.js"
   },
   "repository": {
     "type": "git",
